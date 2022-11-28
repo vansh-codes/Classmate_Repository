@@ -1,5 +1,5 @@
 name=["Vansh","Sarthak","Ritesh","Anshul","Prateek"]
-contact=["1","2","3","4","5"]
+contact=["9123456789","9234567891","9345678912","9456789123","9567891234"]
 n1=[]
 c1=[]
 def search(name,contact):
